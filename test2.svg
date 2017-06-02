@@ -1,0 +1,71 @@
+<svg
+			xmlns = 'http://www.w3.org/2000/svg'
+			xmlns:xlink = 'http://www.w3.org/1999/xlink'
+			version = '1.1'
+			width = '1000.0'
+			height = '1000.0'>
+<rect x = '450.0' y = '450.0' width = '100.0' height = '100.0' stroke = 'rgb(0,0,0)' stroke-width = '0.0' fill = '1.0' transform = 'rotate(0.0 450.0 450.0)' />
+<rect x = '450.0' y = '450.0' width = '70.71067811865476' height = '70.71067811865476' stroke = 'rgb(0,0,0)' stroke-width = '0.0' fill = '1.0' transform = 'rotate(-135.0 450.0 450.0)' />
+<rect x = '450.0' y = '350.0' width = '50.00000000000001' height = '50.00000000000001' stroke = 'rgb(0,0,0)' stroke-width = '0.0' fill = '1.0' transform = 'rotate(-180.0 450.0 350.0)' />
+<rect x = '450.0' y = '300.0' width = '35.355339059327385' height = '35.355339059327385' stroke = 'rgb(0,0,0)' stroke-width = '0.0' fill = '1.0' transform = 'rotate(-135.0 450.0 300.0)' />
+<rect x = '475.0' y = '275.0' width = '25.000000000000007' height = '25.000000000000007' stroke = 'rgb(0,0,0)' stroke-width = '0.0' fill = '1.0' transform = 'rotate(-90.0 475.0 275.0)' />
+<rect x = '500.0' y = '275.0' width = '17.677669529663696' height = '17.677669529663696' stroke = 'rgb(0,0,0)' stroke-width = '0.0' fill = '1.0' transform = 'rotate(-45.0 500.0 275.0)' />
+<rect x = '500.0' y = '250.0' width = '17.677669529663696' height = '17.677669529663696' stroke = 'rgb(0,0,0)' stroke-width = '0.0' fill = '1.0' transform = 'rotate(-45.0 500.0 250.0)' />
+<rect x = '450.0' y = '250.0' width = '25.000000000000007' height = '25.000000000000007' stroke = 'rgb(0,0,0)' stroke-width = '0.0' fill = '1.0' transform = 'rotate(-90.0 450.0 250.0)' />
+<rect x = '475.0' y = '225.0' width = '17.677669529663696' height = '17.677669529663696' stroke = 'rgb(0,0,0)' stroke-width = '0.0' fill = '1.0' transform = 'rotate(-135.0 475.0 225.0)' />
+<rect x = '450.0' y = '225.0' width = '17.677669529663696' height = '17.677669529663696' stroke = 'rgb(0,0,0)' stroke-width = '0.0' fill = '1.0' transform = 'rotate(-135.0 450.0 225.0)' />
+<rect x = '400.0' y = '300.0' width = '35.355339059327385' height = '35.355339059327385' stroke = 'rgb(0,0,0)' stroke-width = '0.0' fill = '1.0' transform = 'rotate(-135.0 400.0 300.0)' />
+<rect x = '400.0' y = '250.0' width = '25.000000000000007' height = '25.000000000000007' stroke = 'rgb(0,0,0)' stroke-width = '0.0' fill = '1.0' transform = 'rotate(-180.0 400.0 250.0)' />
+<rect x = '400.0' y = '225.0' width = '17.677669529663696' height = '17.677669529663696' stroke = 'rgb(0,0,0)' stroke-width = '0.0' fill = '1.0' transform = 'rotate(-135.0 400.0 225.0)' />
+<rect x = '375.0' y = '225.0' width = '17.677669529663696' height = '17.677669529663696' stroke = 'rgb(0,0,0)' stroke-width = '0.0' fill = '1.0' transform = 'rotate(-135.0 375.0 225.0)' />
+<rect x = '375.0' y = '275.0' width = '25.000000000000007' height = '25.000000000000007' stroke = 'rgb(0,0,0)' stroke-width = '0.0' fill = '1.0' transform = 'rotate(-180.0 375.0 275.0)' />
+<rect x = '350.0' y = '250.0' width = '17.677669529663696' height = '17.677669529663696' stroke = 'rgb(0,0,0)' stroke-width = '0.0' fill = '1.0' transform = 'rotate(-225.0 350.0 250.0)' />
+<rect x = '350.0' y = '275.0' width = '17.677669529663696' height = '17.677669529663696' stroke = 'rgb(0,0,0)' stroke-width = '0.0' fill = '1.0' transform = 'rotate(-225.0 350.0 275.0)' />
+<rect x = '400.0' y = '400.0' width = '50.00000000000001' height = '50.00000000000001' stroke = 'rgb(0,0,0)' stroke-width = '0.0' fill = '1.0' transform = 'rotate(-180.0 400.0 400.0)' />
+<rect x = '350.0' y = '350.0' width = '35.355339059327385' height = '35.355339059327385' stroke = 'rgb(0,0,0)' stroke-width = '0.0' fill = '1.0' transform = 'rotate(-225.0 350.0 350.0)' />
+<rect x = '325.0' y = '325.0' width = '25.000000000000007' height = '25.000000000000007' stroke = 'rgb(0,0,0)' stroke-width = '0.0' fill = '1.0' transform = 'rotate(-180.0 325.0 325.0)' />
+<rect x = '325.0' y = '300.0' width = '17.677669529663696' height = '17.677669529663696' stroke = 'rgb(0,0,0)' stroke-width = '0.0' fill = '1.0' transform = 'rotate(-135.0 325.0 300.0)' />
+<rect x = '300.0' y = '300.0' width = '17.677669529663696' height = '17.677669529663696' stroke = 'rgb(0,0,0)' stroke-width = '0.0' fill = '1.0' transform = 'rotate(-135.0 300.0 300.0)' />
+<rect x = '300.0' y = '350.0' width = '25.000000000000007' height = '25.000000000000007' stroke = 'rgb(0,0,0)' stroke-width = '0.0' fill = '1.0' transform = 'rotate(-180.0 300.0 350.0)' />
+<rect x = '275.0' y = '325.0' width = '17.677669529663696' height = '17.677669529663696' stroke = 'rgb(0,0,0)' stroke-width = '0.0' fill = '1.0' transform = 'rotate(-225.0 275.0 325.0)' />
+<rect x = '275.0' y = '350.0' width = '17.677669529663696' height = '17.677669529663696' stroke = 'rgb(0,0,0)' stroke-width = '0.0' fill = '1.0' transform = 'rotate(-225.0 275.0 350.0)' />
+<rect x = '350.0' y = '400.0' width = '35.355339059327385' height = '35.355339059327385' stroke = 'rgb(0,0,0)' stroke-width = '0.0' fill = '1.0' transform = 'rotate(-225.0 350.0 400.0)' />
+<rect x = '300.0' y = '400.0' width = '25.000000000000007' height = '25.000000000000007' stroke = 'rgb(0,0,0)' stroke-width = '0.0' fill = '1.0' transform = 'rotate(-270.0 300.0 400.0)' />
+<rect x = '275.0' y = '400.0' width = '17.677669529663696' height = '17.677669529663696' stroke = 'rgb(0,0,0)' stroke-width = '0.0' fill = '1.0' transform = 'rotate(-225.0 275.0 400.0)' />
+<rect x = '275.0' y = '425.0' width = '17.677669529663696' height = '17.677669529663696' stroke = 'rgb(0,0,0)' stroke-width = '0.0' fill = '1.0' transform = 'rotate(-225.0 275.0 425.0)' />
+<rect x = '325.0' y = '425.0' width = '25.000000000000007' height = '25.000000000000007' stroke = 'rgb(0,0,0)' stroke-width = '0.0' fill = '1.0' transform = 'rotate(-270.0 325.0 425.0)' />
+<rect x = '300.0' y = '450.0' width = '17.677669529663696' height = '17.677669529663696' stroke = 'rgb(0,0,0)' stroke-width = '0.0' fill = '1.0' transform = 'rotate(-315.0 300.0 450.0)' />
+<rect x = '325.0' y = '450.0' width = '17.677669529663696' height = '17.677669529663696' stroke = 'rgb(0,0,0)' stroke-width = '0.0' fill = '1.0' transform = 'rotate(-315.0 325.0 450.0)' />
+<rect x = '550.0' y = '450.0' width = '70.71067811865476' height = '70.71067811865476' stroke = 'rgb(0,0,0)' stroke-width = '0.0' fill = '1.0' transform = 'rotate(-135.0 550.0 450.0)' />
+<rect x = '600.0' y = '400.0' width = '50.00000000000001' height = '50.00000000000001' stroke = 'rgb(0,0,0)' stroke-width = '0.0' fill = '1.0' transform = 'rotate(-90.0 600.0 400.0)' />
+<rect x = '650.0' y = '400.0' width = '35.355339059327385' height = '35.355339059327385' stroke = 'rgb(0,0,0)' stroke-width = '0.0' fill = '1.0' transform = 'rotate(-45.0 650.0 400.0)' />
+<rect x = '675.0' y = '425.0' width = '25.000000000000007' height = '25.000000000000007' stroke = 'rgb(0,0,0)' stroke-width = '0.0' fill = '1.0' transform = 'rotate(0.0 675.0 425.0)' />
+<rect x = '675.0' y = '450.0' width = '17.677669529663696' height = '17.677669529663696' stroke = 'rgb(0,0,0)' stroke-width = '0.0' fill = '1.0' transform = 'rotate(45.0 675.0 450.0)' />
+<rect x = '700.0' y = '450.0' width = '17.677669529663696' height = '17.677669529663696' stroke = 'rgb(0,0,0)' stroke-width = '0.0' fill = '1.0' transform = 'rotate(45.0 700.0 450.0)' />
+<rect x = '700.0' y = '400.0' width = '25.000000000000007' height = '25.000000000000007' stroke = 'rgb(0,0,0)' stroke-width = '0.0' fill = '1.0' transform = 'rotate(0.0 700.0 400.0)' />
+<rect x = '725.0' y = '425.0' width = '17.677669529663696' height = '17.677669529663696' stroke = 'rgb(0,0,0)' stroke-width = '0.0' fill = '1.0' transform = 'rotate(-45.0 725.0 425.0)' />
+<rect x = '725.0' y = '400.0' width = '17.677669529663696' height = '17.677669529663696' stroke = 'rgb(0,0,0)' stroke-width = '0.0' fill = '1.0' transform = 'rotate(-45.0 725.0 400.0)' />
+<rect x = '650.0' y = '350.0' width = '35.355339059327385' height = '35.355339059327385' stroke = 'rgb(0,0,0)' stroke-width = '0.0' fill = '1.0' transform = 'rotate(-45.0 650.0 350.0)' />
+<rect x = '700.0' y = '350.0' width = '25.000000000000007' height = '25.000000000000007' stroke = 'rgb(0,0,0)' stroke-width = '0.0' fill = '1.0' transform = 'rotate(-90.0 700.0 350.0)' />
+<rect x = '725.0' y = '350.0' width = '17.677669529663696' height = '17.677669529663696' stroke = 'rgb(0,0,0)' stroke-width = '0.0' fill = '1.0' transform = 'rotate(-45.0 725.0 350.0)' />
+<rect x = '725.0' y = '325.0' width = '17.677669529663696' height = '17.677669529663696' stroke = 'rgb(0,0,0)' stroke-width = '0.0' fill = '1.0' transform = 'rotate(-45.0 725.0 325.0)' />
+<rect x = '675.0' y = '325.0' width = '25.000000000000007' height = '25.000000000000007' stroke = 'rgb(0,0,0)' stroke-width = '0.0' fill = '1.0' transform = 'rotate(-90.0 675.0 325.0)' />
+<rect x = '700.0' y = '300.0' width = '17.677669529663696' height = '17.677669529663696' stroke = 'rgb(0,0,0)' stroke-width = '0.0' fill = '1.0' transform = 'rotate(-135.0 700.0 300.0)' />
+<rect x = '675.0' y = '300.0' width = '17.677669529663696' height = '17.677669529663696' stroke = 'rgb(0,0,0)' stroke-width = '0.0' fill = '1.0' transform = 'rotate(-135.0 675.0 300.0)' />
+<rect x = '550.0' y = '350.0' width = '50.00000000000001' height = '50.00000000000001' stroke = 'rgb(0,0,0)' stroke-width = '0.0' fill = '1.0' transform = 'rotate(-90.0 550.0 350.0)' />
+<rect x = '600.0' y = '300.0' width = '35.355339059327385' height = '35.355339059327385' stroke = 'rgb(0,0,0)' stroke-width = '0.0' fill = '1.0' transform = 'rotate(-135.0 600.0 300.0)' />
+<rect x = '625.0' y = '275.0' width = '25.000000000000007' height = '25.000000000000007' stroke = 'rgb(0,0,0)' stroke-width = '0.0' fill = '1.0' transform = 'rotate(-90.0 625.0 275.0)' />
+<rect x = '650.0' y = '275.0' width = '17.677669529663696' height = '17.677669529663696' stroke = 'rgb(0,0,0)' stroke-width = '0.0' fill = '1.0' transform = 'rotate(-45.0 650.0 275.0)' />
+<rect x = '650.0' y = '250.0' width = '17.677669529663696' height = '17.677669529663696' stroke = 'rgb(0,0,0)' stroke-width = '0.0' fill = '1.0' transform = 'rotate(-45.0 650.0 250.0)' />
+<rect x = '600.0' y = '250.0' width = '25.000000000000007' height = '25.000000000000007' stroke = 'rgb(0,0,0)' stroke-width = '0.0' fill = '1.0' transform = 'rotate(-90.0 600.0 250.0)' />
+<rect x = '625.0' y = '225.0' width = '17.677669529663696' height = '17.677669529663696' stroke = 'rgb(0,0,0)' stroke-width = '0.0' fill = '1.0' transform = 'rotate(-135.0 625.0 225.0)' />
+<rect x = '600.0' y = '225.0' width = '17.677669529663696' height = '17.677669529663696' stroke = 'rgb(0,0,0)' stroke-width = '0.0' fill = '1.0' transform = 'rotate(-135.0 600.0 225.0)' />
+<rect x = '550.0' y = '300.0' width = '35.355339059327385' height = '35.355339059327385' stroke = 'rgb(0,0,0)' stroke-width = '0.0' fill = '1.0' transform = 'rotate(-135.0 550.0 300.0)' />
+<rect x = '550.0' y = '250.0' width = '25.000000000000007' height = '25.000000000000007' stroke = 'rgb(0,0,0)' stroke-width = '0.0' fill = '1.0' transform = 'rotate(-180.0 550.0 250.0)' />
+<rect x = '550.0' y = '225.0' width = '17.677669529663696' height = '17.677669529663696' stroke = 'rgb(0,0,0)' stroke-width = '0.0' fill = '1.0' transform = 'rotate(-135.0 550.0 225.0)' />
+<rect x = '525.0' y = '225.0' width = '17.677669529663696' height = '17.677669529663696' stroke = 'rgb(0,0,0)' stroke-width = '0.0' fill = '1.0' transform = 'rotate(-135.0 525.0 225.0)' />
+<rect x = '525.0' y = '275.0' width = '25.000000000000007' height = '25.000000000000007' stroke = 'rgb(0,0,0)' stroke-width = '0.0' fill = '1.0' transform = 'rotate(-180.0 525.0 275.0)' />
+<rect x = '500.0' y = '250.0' width = '17.677669529663696' height = '17.677669529663696' stroke = 'rgb(0,0,0)' stroke-width = '0.0' fill = '1.0' transform = 'rotate(-225.0 500.0 250.0)' />
+<rect x = '500.0' y = '275.0' width = '17.677669529663696' height = '17.677669529663696' stroke = 'rgb(0,0,0)' stroke-width = '0.0' fill = '1.0' transform = 'rotate(-225.0 500.0 275.0)' />
+
+</svg>
